@@ -1,4 +1,5 @@
-# Assignment Title
+# Recursive Art
+Don't forget to create issues as needed: [Bug Report](https://github.com/CS-at-GA/APCSP-03-RecursiveArt/issues/new?assignees=gajoswald&labels=bug&template=bug_report.md&title=) | [Help Request](https://github.com/CS-at-GA/APCSP-03-RecursiveArt/issues/new?assignees=gajoswald&labels=help+wanted&template=help-request.md&title=Help+Request) | [Request for Clarity](https://github.com/CS-at-GA/APCSP-03-RecursiveArt/issues/new?assignees=gajoswald&labels=documentation&template=request-for-clarity.md&title=Request+for+Clarity)
 
 ## Pre-reads
 
